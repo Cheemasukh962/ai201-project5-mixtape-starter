@@ -130,5 +130,5 @@ Full suite: `pytest tests/` → **13 passed**.
 
 ## Commit History
 
-<img width="713" height="195" alt="image" src="https://github.com/user-attachments/assets/8c726a55-772e-42a0-9a4e-f1985d3f2469" />
+<img width="748" height="140" alt="image" src="https://github.com/user-attachments/assets/7d4f053c-4d3d-436b-a3df-0bf91fc5e8f3" />
 
