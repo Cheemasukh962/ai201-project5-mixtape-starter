@@ -130,4 +130,5 @@ Full suite: `pytest tests/` → **13 passed**.
 
 ## Commit History
 
-_(Paste `git log --oneline` screenshot of the `bugfix/mixtape` branch here.)_
+<img width="713" height="195" alt="image" src="https://github.com/user-attachments/assets/8c726a55-772e-42a0-9a4e-f1985d3f2469" />
+
